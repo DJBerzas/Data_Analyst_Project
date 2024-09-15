@@ -1,3 +1,36 @@
+# Overview 
+This project was created out of a desire to navigate and understand the job market more efficiently. It goes into the top-paying and in-demand skills to help find optimal job opportunites for data analysts.
+
+
+The data sourced from `Luke Barousse's Python Course` which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scipts, I explore key questions such as the most demanded kills, salary trends, and the intersection of demand and salary in data analytics.
+
+
+# The Questions
+Below are the questions I want to answer in my project:
+
+1. What are the skills most in demand for the top 3 most popular data roles?
+2. How are in-demand skills trending for Data Analysts?
+3. How well do jobs and skills pay for Data Analysts?
+4. What are the optimal skills for data analysts to learn?
+
+# Tools I Used 
+Python: The backbone of my analysis, allowing me to analyze the data and find the critical insights. I also used the following Python libraries 
+  
+-Pandas: This was used to analyze the data
+
+-MatPlotLib: I visualized the data 
+
+-Seaborn: Helped me create more advanced visuals 
+
+Jupyter Notebooks: The tool I used to run my Python scripts which let me easily include my notes and analysis.
+
+Visual Studio Code: My go-to for executing Pythoin scripts 
+
+Git & Github: Essential for verison controal and sharing my Python code and analysis.
+
+
+
+
 # The Analysis 
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
 
@@ -275,3 +308,8 @@ The scatter plot shows that most of `programming` skills (colored blue) tend to 
 Analyst tools (colored green), including Tableau and Power BI, are prevealent in job postings and offer competitve salaries, showing that visualization and data analysis software are crucial for current data roles. This category not only has good salaries but is also veristile across different types of data tasks.
 
 The database skills (colored orange), such as Oracle and SQL Server, are associated with some of the highest salaries amoung data analyst tools. This indicates a significant demand and valuation for data management and manipulation expertise in the industry.
+
+
+# Conclusion 
+
+This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insightsI got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaption in the data field.
